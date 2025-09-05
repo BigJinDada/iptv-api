@@ -1,114 +1,99 @@
 <?xml version="1.0" ?>
-<tv date="20250905101854 +0800">
+<tv date="20250905221721 +0800">
 	<channel id="CCTV-1">
 		<display-name lang="zh">CCTV-1</display-name>
 	</channel>
-	<programme channel="CCTV-1" start="20250905002500 +0800" stop="20250905020400 +0800">
-		<title lang="zh">简牍探中华第二季-4</title>
+	<programme channel="CCTV-1" start="20250906002700 +0800" stop="20250906020100 +0800">
+		<title lang="zh">简牍探中华第二季-5</title>
 	</programme>
-	<programme channel="CCTV-1" start="20250905020400 +0800" stop="20250905023600 +0800">
+	<programme channel="CCTV-1" start="20250906020100 +0800" stop="20250906023300 +0800">
 		<title lang="zh">晚间新闻</title>
 	</programme>
-	<programme channel="CCTV-1" start="20250905023600 +0800" stop="20250905024800 +0800">
-		<title lang="zh">2024秘境之眼-雪域灵踪(4K)</title>
+	<programme channel="CCTV-1" start="20250906023300 +0800" stop="20250906023700 +0800">
+		<title lang="zh">山水间的家-主题曲</title>
 	</programme>
-	<programme channel="CCTV-1" start="20250905024800 +0800" stop="20250905025500 +0800">
-		<title lang="zh">非遗里的中国-MV</title>
+	<programme channel="CCTV-1" start="20250906023700 +0800" stop="20250906025200 +0800">
+		<title lang="zh">2024秘境之眼-秘境飞羽(4K)</title>
 	</programme>
-	<programme channel="CCTV-1" start="20250905025500 +0800" stop="20250905042000 +0800">
-		<title lang="zh">简牍探中华第二季-4</title>
+	<programme channel="CCTV-1" start="20250906025200 +0800" stop="20250906042000 +0800">
+		<title lang="zh">简牍探中华第二季-5</title>
 	</programme>
-	<programme channel="CCTV-1" start="20250905042000 +0800" stop="20250905045300 +0800">
-		<title lang="zh">寻宝-文脉春秋-26</title>
+	<programme channel="CCTV-1" start="20250906042000 +0800" stop="20250906045300 +0800">
+		<title lang="zh">文脉春秋-2024-1</title>
 	</programme>
-	<programme channel="CCTV-1" start="20250905045300 +0800" stop="20250905055200 +0800">
+	<programme channel="CCTV-1" start="20250906045300 +0800" stop="20250906052700 +0800">
 		<title lang="zh">新闻联播</title>
 	</programme>
-	<programme channel="CCTV-1" start="20250905055200 +0800" stop="20250905060000 +0800">
-		<title lang="zh">寻古中国-稻谷记3</title>
+	<programme channel="CCTV-1" start="20250906052700 +0800" stop="20250906060000 +0800">
+		<title lang="zh">寻古中国-稻谷记4</title>
 	</programme>
-	<programme channel="CCTV-1" start="20250905060000 +0800" stop="20250905083800 +0800">
+	<programme channel="CCTV-1" start="20250906060000 +0800" stop="20250906083700 +0800">
 		<title lang="zh">朝闻天下</title>
 	</programme>
-	<programme channel="CCTV-1" start="20250905083800 +0800" stop="20250905092200 +0800">
-		<title lang="zh">生活早参考-特别节目（生活圈）2025-181</title>
+	<programme channel="CCTV-1" start="20250906083700 +0800" stop="20250906092400 +0800">
+		<title lang="zh">生活早参考-特别节目（生活圈）2025-182</title>
 	</programme>
-	<programme channel="CCTV-1" start="20250905092200 +0800" stop="20250905101300 +0800">
-		<title lang="zh">青山是故乡第3集</title>
+	<programme channel="CCTV-1" start="20250906092400 +0800" stop="20250906101700 +0800">
+		<title lang="zh">青山是故乡第6集</title>
 	</programme>
-	<programme channel="CCTV-1" start="20250905101300 +0800" stop="20250905110500 +0800">
-		<title lang="zh">青山是故乡第4集</title>
+	<programme channel="CCTV-1" start="20250906101700 +0800" stop="20250906110600 +0800">
+		<title lang="zh">青山是故乡第7集</title>
 	</programme>
-	<programme channel="CCTV-1" start="20250905110500 +0800" stop="20250905115400 +0800">
-		<title lang="zh">青山是故乡第5集</title>
+	<programme channel="CCTV-1" start="20250906110600 +0800" stop="20250906115400 +0800">
+		<title lang="zh">青山是故乡第8集</title>
 	</programme>
-	<programme channel="CCTV-1" start="20250905115400 +0800" stop="20250905120000 +0800">
-		<title lang="zh">2024秘境之眼-341</title>
+	<programme channel="CCTV-1" start="20250906115400 +0800" stop="20250906120000 +0800">
+		<title lang="zh">2024秘境之眼-342</title>
 	</programme>
-	<programme channel="CCTV-1" start="20250905120000 +0800" stop="20250905123300 +0800">
+	<programme channel="CCTV-1" start="20250906120000 +0800" stop="20250906123700 +0800">
 		<title lang="zh">新闻30分</title>
 	</programme>
-	<programme channel="CCTV-1" start="20250905123300 +0800" stop="20250905141300 +0800">
-		<title lang="zh">纪念中国人民抗日战争暨世界反法西斯战争胜利80周年文艺晚会-完整版</title>
-	</programme>
-	<programme channel="CCTV-1" start="20250905141300 +0800" stop="20250905150000 +0800">
-		<title lang="zh">归队第5集</title>
-	</programme>
-	<programme channel="CCTV-1" start="20250905150000 +0800" stop="20250905155400 +0800">
-		<title lang="zh">归队第6集</title>
-	</programme>
-	<programme channel="CCTV-1" start="20250905155400 +0800" stop="20250905164200 +0800">
-		<title lang="zh">归队第7集</title>
-	</programme>
-	<programme channel="CCTV-1" start="20250905164200 +0800" stop="20250905165000 +0800">
-		<title lang="zh">第一动画乐园-2025-291</title>
-	</programme>
-	<programme channel="CCTV-1" start="20250905165000 +0800" stop="20250905165800 +0800">
-		<title lang="zh">第一动画乐园-2025-292</title>
-	</programme>
-	<programme channel="CCTV-1" start="20250905165800 +0800" stop="20250905170300 +0800">
-		<title lang="zh">第一动画乐园-2025-295</title>
-	</programme>
-	<programme channel="CCTV-1" start="20250905170300 +0800" stop="20250905173400 +0800">
+	<programme channel="CCTV-1" start="20250906123700 +0800" stop="20250906130800 +0800">
 		<title lang="zh">新闻直播间</title>
 	</programme>
-	<programme channel="CCTV-1" start="20250905173400 +0800" stop="20250905180300 +0800">
+	<programme channel="CCTV-1" start="20250906130800 +0800" stop="20250906133600 +0800">
 		<title lang="zh">新闻直播间</title>
 	</programme>
-	<programme channel="CCTV-1" start="20250905180300 +0800" stop="20250905190000 +0800">
+	<programme channel="CCTV-1" start="20250906133600 +0800" stop="20250906142800 +0800">
 		<title lang="zh">新闻直播间</title>
 	</programme>
-	<programme channel="CCTV-1" start="20250905190000 +0800" stop="20250905193900 +0800">
+	<programme channel="CCTV-1" start="20250906142800 +0800" stop="20250906151900 +0800">
+		<title lang="zh">归队第8集</title>
+	</programme>
+	<programme channel="CCTV-1" start="20250906151900 +0800" stop="20250906160900 +0800">
+		<title lang="zh">归队第9集</title>
+	</programme>
+	<programme channel="CCTV-1" start="20250906160900 +0800" stop="20250906165900 +0800">
+		<title lang="zh">归队第10集</title>
+	</programme>
+	<programme channel="CCTV-1" start="20250906165900 +0800" stop="20250906181800 +0800">
+		<title lang="zh">星光大道-2025-37（这一站星光30）</title>
+	</programme>
+	<programme channel="CCTV-1" start="20250906181800 +0800" stop="20250906182000 +0800">
+		<title lang="zh">秘境之眼-2025-250</title>
+	</programme>
+	<programme channel="CCTV-1" start="20250906182000 +0800" stop="20250906190000 +0800">
+		<title lang="zh">绿水青山中国答卷-15</title>
+	</programme>
+	<programme channel="CCTV-1" start="20250906190000 +0800" stop="20250906193800 +0800">
 		<title lang="zh">新闻联播</title>
 	</programme>
-	<programme channel="CCTV-1" start="20250905193900 +0800" stop="20250905200100 +0800">
+	<programme channel="CCTV-1" start="20250906193800 +0800" stop="20250906200200 +0800">
 		<title lang="zh">焦点访谈</title>
 	</programme>
-	<programme channel="CCTV-1" start="20250905200100 +0800" stop="20250905200600 +0800">
-		<title lang="zh">前情提要-我们的河山-第23集</title>
+	<programme channel="CCTV-1" start="20250906200200 +0800" stop="20250906215200 +0800">
+		<title lang="zh">非遗里的中国（第四季）-1</title>
 	</programme>
-	<programme channel="CCTV-1" start="20250905200600 +0800" stop="20250905205600 +0800">
-		<title lang="zh">我们的河山第23集</title>
+	<programme channel="CCTV-1" start="20250906215200 +0800" stop="20250906220000 +0800">
+		<title lang="zh">山水间的家-主题曲</title>
 	</programme>
-	<programme channel="CCTV-1" start="20250905205600 +0800" stop="20250905210000 +0800">
-		<title lang="zh">前情提要-我们的河山-第24集</title>
-	</programme>
-	<programme channel="CCTV-1" start="20250905210000 +0800" stop="20250905215100 +0800">
-		<title lang="zh">我们的河山第24集</title>
-	</programme>
-	<programme channel="CCTV-1" start="20250905215100 +0800" stop="20250905220000 +0800">
-		<title lang="zh">三餐四季（第二季）-宣传片</title>
-	</programme>
-	<programme channel="CCTV-1" start="20250905220000 +0800" stop="20250905223400 +0800">
+	<programme channel="CCTV-1" start="20250906220000 +0800" stop="20250906223100 +0800">
 		<title lang="zh">晚间新闻</title>
 	</programme>
-	<programme channel="CCTV-1" start="20250905223400 +0800" stop="20250905230600 +0800">
-		<title lang="zh">新闻直播间</title>
+	<programme channel="CCTV-1" start="20250906223100 +0800" stop="20250906231900 +0800">
+		<title lang="zh">烽火战歌-5</title>
 	</programme>
-	<programme channel="CCTV-1" start="20250905230600 +0800" stop="20250905233400 +0800">
-		<title lang="zh">新闻直播间</title>
-	</programme>
-	<programme channel="CCTV-1" start="20250905233400 +0800" stop="20250905235900 +0800">
-		<title lang="zh">新闻直播间</title>
+	<programme channel="CCTV-1" start="20250906231900 +0800" stop="20250906235900 +0800">
+		<title lang="zh">简牍探中华第二季-6</title>
 	</programme>
 </tv>
