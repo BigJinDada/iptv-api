@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2025-12-09 18:23:50,http://php.jdshipin.com/TVOD/iptv.php?id=rthk33
+2025-12-10 06:19:34,http://play.kankanlive.com/live/1698234869325962.m3u8
 
 📺央视频道,#genre#
-CCTV-1,http://php.jdshipin.com/TVOD/iptv.php?id=rthk33
+CCTV-1,http://play.kankanlive.com/live/1698234869325962.m3u8
