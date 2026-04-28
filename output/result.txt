@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2026-04-28 19:44:20,http://112.27.235.94:8000/hls/1/index.m3u8
+2026-04-29 06:56:17,http://php.jdshipin.com/TVOD/iptv.php?id=rthk33
 
 📺央视频道,#genre#
-CCTV-1,http://112.27.235.94:8000/hls/1/index.m3u8
+CCTV-1,http://php.jdshipin.com/TVOD/iptv.php?id=rthk33
