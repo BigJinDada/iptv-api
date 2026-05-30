@@ -1,5 +1,5 @@
 <?xml version="1.0" ?>
-<tv date="20260529231103 +0800">
+<tv date="20260530111906 +0800">
 	<channel id="CCTV-1">
 		<display-name lang="zh">CCTV-1</display-name>
 	</channel>
@@ -869,5 +869,65 @@
 	</programme>
 	<programme channel="CCTV-1" start="20260601012900 +0800" stop="20260601015900 +0800">
 		<title lang="zh">晚间新闻</title>
+	</programme>
+	<programme channel="CCTV-1" start="20260601015900 +0800" stop="20260601022900 +0800">
+		<title lang="zh">国家荣光(38)</title>
+	</programme>
+	<programme channel="CCTV-1" start="20260601022900 +0800" stop="20260601024100 +0800">
+		<title lang="zh">中华古树：勐海高山榕</title>
+	</programme>
+	<programme channel="CCTV-1" start="20260601024100 +0800" stop="20260601024900 +0800">
+		<title lang="zh">《非遗里的中国》MV</title>
+	</programme>
+	<programme channel="CCTV-1" start="20260601024900 +0800" stop="20260601042000 +0800">
+		<title lang="zh">宗师列传·大唐诗人传：李贺</title>
+	</programme>
+	<programme channel="CCTV-1" start="20260601042000 +0800" stop="20260601045300 +0800">
+		<title lang="zh">本草流芳：枸杞</title>
+	</programme>
+	<programme channel="CCTV-1" start="20260601045300 +0800" stop="20260601052700 +0800">
+		<title lang="zh">新闻联播</title>
+	</programme>
+	<programme channel="CCTV-1" start="20260601052700 +0800" stop="20260601055900 +0800">
+		<title lang="zh">寻古中国Ⅱ：探秘秦始皇陵(1)</title>
+	</programme>
+	<programme channel="CCTV-1" start="20260601055900 +0800" stop="20260601060000 +0800">
+		<title lang="zh">中华人民共和国国歌</title>
+	</programme>
+	<programme channel="CCTV-1" start="20260601060000 +0800" stop="20260601070000 +0800">
+		<title lang="zh">朝闻天下</title>
+	</programme>
+	<programme channel="CCTV-1" start="20260601070000 +0800" stop="20260601070100 +0800">
+		<title lang="zh">中华人民共和国国歌</title>
+	</programme>
+	<programme channel="CCTV-1" start="20260601070100 +0800" stop="20260601083500 +0800">
+		<title lang="zh">朝闻天下</title>
+	</programme>
+	<programme channel="CCTV-1" start="20260601083500 +0800" stop="20260601092100 +0800">
+		<title lang="zh">生活圈</title>
+	</programme>
+	<programme channel="CCTV-1" start="20260601092100 +0800" stop="20260601101200 +0800">
+		<title lang="zh">家事法庭(23)</title>
+	</programme>
+	<programme channel="CCTV-1" start="20260601101200 +0800" stop="20260601110100 +0800">
+		<title lang="zh">家事法庭(24)</title>
+	</programme>
+	<programme channel="CCTV-1" start="20260601110100 +0800" stop="20260601114900 +0800">
+		<title lang="zh">家事法庭(25)</title>
+	</programme>
+	<programme channel="CCTV-1" start="20260601114900 +0800" stop="20260601115300 +0800">
+		<title lang="zh">《非遗里的中国》MV</title>
+	</programme>
+	<programme channel="CCTV-1" start="20260601115300 +0800" stop="20260601120000 +0800">
+		<title lang="zh">秘境之眼</title>
+	</programme>
+	<programme channel="CCTV-1" start="20260601120000 +0800" stop="20260601123400 +0800">
+		<title lang="zh">新闻30分</title>
+	</programme>
+	<programme channel="CCTV-1" start="20260601123400 +0800" stop="20260601130700 +0800">
+		<title lang="zh">今日说法</title>
+	</programme>
+	<programme channel="CCTV-1" start="20260601130700 +0800" stop="20260601135500 +0800">
+		<title lang="zh">灼灼韶华(32)</title>
 	</programme>
 </tv>
