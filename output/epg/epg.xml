@@ -1,5 +1,5 @@
 <?xml version="1.0" ?>
-<tv date="20260608231108 +0800">
+<tv date="20260609123624 +0800">
 	<channel id="CCTV-1">
 		<display-name lang="zh">CCTV-1</display-name>
 	</channel>
@@ -911,5 +911,65 @@
 	</programme>
 	<programme channel="CCTV-1" start="20260611012000 +0800" stop="20260611015000 +0800">
 		<title lang="zh">晚间新闻</title>
+	</programme>
+	<programme channel="CCTV-1" start="20260611015000 +0800" stop="20260611023300 +0800">
+		<title lang="zh">生活圈</title>
+	</programme>
+	<programme channel="CCTV-1" start="20260611023300 +0800" stop="20260611024500 +0800">
+		<title lang="zh">中华古树：闽侯榕树王</title>
+	</programme>
+	<programme channel="CCTV-1" start="20260611024500 +0800" stop="20260611042000 +0800">
+		<title lang="zh">宗师列传·唐宋八大家：柳宗元</title>
+	</programme>
+	<programme channel="CCTV-1" start="20260611042000 +0800" stop="20260611042200 +0800">
+		<title lang="zh">泱泱中华-历史文化街区(1)</title>
+	</programme>
+	<programme channel="CCTV-1" start="20260611042200 +0800" stop="20260611045300 +0800">
+		<title lang="zh">今日说法</title>
+	</programme>
+	<programme channel="CCTV-1" start="20260611045300 +0800" stop="20260611052700 +0800">
+		<title lang="zh">新闻联播</title>
+	</programme>
+	<programme channel="CCTV-1" start="20260611052700 +0800" stop="20260611055900 +0800">
+		<title lang="zh">寻古中国：古国良渚(4)</title>
+	</programme>
+	<programme channel="CCTV-1" start="20260611055900 +0800" stop="20260611060000 +0800">
+		<title lang="zh">中华人民共和国国歌</title>
+	</programme>
+	<programme channel="CCTV-1" start="20260611060000 +0800" stop="20260611070000 +0800">
+		<title lang="zh">朝闻天下</title>
+	</programme>
+	<programme channel="CCTV-1" start="20260611070000 +0800" stop="20260611070100 +0800">
+		<title lang="zh">中华人民共和国国歌</title>
+	</programme>
+	<programme channel="CCTV-1" start="20260611070100 +0800" stop="20260611083500 +0800">
+		<title lang="zh">朝闻天下</title>
+	</programme>
+	<programme channel="CCTV-1" start="20260611083500 +0800" stop="20260611092100 +0800">
+		<title lang="zh">生活圈</title>
+	</programme>
+	<programme channel="CCTV-1" start="20260611092100 +0800" stop="20260611101200 +0800">
+		<title lang="zh">青山是故乡(27)</title>
+	</programme>
+	<programme channel="CCTV-1" start="20260611101200 +0800" stop="20260611110100 +0800">
+		<title lang="zh">青山是故乡(28)</title>
+	</programme>
+	<programme channel="CCTV-1" start="20260611110100 +0800" stop="20260611114900 +0800">
+		<title lang="zh">青山是故乡(29)</title>
+	</programme>
+	<programme channel="CCTV-1" start="20260611114900 +0800" stop="20260611115300 +0800">
+		<title lang="zh">《三餐四季Ⅱ》宣传片</title>
+	</programme>
+	<programme channel="CCTV-1" start="20260611115300 +0800" stop="20260611120000 +0800">
+		<title lang="zh">秘境之眼</title>
+	</programme>
+	<programme channel="CCTV-1" start="20260611120000 +0800" stop="20260611123400 +0800">
+		<title lang="zh">新闻30分</title>
+	</programme>
+	<programme channel="CCTV-1" start="20260611123400 +0800" stop="20260611130700 +0800">
+		<title lang="zh">今日说法</title>
+	</programme>
+	<programme channel="CCTV-1" start="20260611130700 +0800" stop="20260611135400 +0800">
+		<title lang="zh">家业(30)</title>
 	</programme>
 </tv>
