@@ -1,5 +1,5 @@
 <?xml version="1.0" ?>
-<tv date="20260825222442 +0800">
+<tv date="20260826103300 +0800">
 	<channel id="CCTV-1">
 		<display-name lang="zh">CCTV-1</display-name>
 	</channel>
@@ -645,7 +645,7 @@
 	<programme channel="CCTV-1" start="20260825223500 +0800" stop="20260825231100 +0800">
 		<title lang="zh">自然中国-智绘中国-图惠民生</title>
 	</programme>
-	<programme channel="CCTV-1" start="20260825231100 +0800" stop="20260826005000 +0800">
+	<programme channel="CCTV-1" start="20260825231100 +0800" stop="20260826000000 +0800">
 		<title lang="zh">2024中国诗词大会-2</title>
 	</programme>
 	<programme channel="CCTV-1" start="20260826005000 +0800" stop="20260826011200 +0800">
@@ -759,7 +759,7 @@
 	<programme channel="CCTV-1" start="20260826223500 +0800" stop="20260826231200 +0800">
 		<title lang="zh">自然中国-智绘中国-古迹新生</title>
 	</programme>
-	<programme channel="CCTV-1" start="20260826231200 +0800" stop="20260827000000 +0800">
+	<programme channel="CCTV-1" start="20260826231200 +0800" stop="20260827005000 +0800">
 		<title lang="zh">2024中国诗词大会-3</title>
 	</programme>
 	<programme channel="CCTV-1" start="20260827005000 +0800" stop="20260827012000 +0800">
